@@ -25,7 +25,7 @@
 </div>
 <div>
   <h3>Most Used Languaje 📊</h3>
-  <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=FerxhoDev&theme=tokyonight'/></a>
+  <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=FerxhoDev&compac&theme=tokyonight'/></a>
   <img align='center' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FerxhoDev&theme=tokyonight'/></a>
 </div>
 <!--
